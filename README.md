@@ -1,4 +1,4 @@
-# **ai_exercises**
+# **ai_implementations**
 
 ---
 
