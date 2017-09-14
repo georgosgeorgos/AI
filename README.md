@@ -10,5 +10,5 @@
 
 * adversarial search (minimax + alpha/beta pruning)
 
-* csp (Constraint satisfaction problem - AC-3)
+* csp (constraint satisfaction problem - AC-3)
 
